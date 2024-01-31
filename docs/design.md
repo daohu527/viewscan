@@ -18,3 +18,7 @@ We use ray cast for collision detection. Thanks to the octree, we can reduce the
 2. Build octree
 3. Determine whether there is a collision through rays, and the collision will not be displayed.
 4. Display occupied network in the front three.js
+
+#### collision detection
+1. lidar use raycast
+2. camera uses 3D box projection to 2D to determine whether it is within the field of view.
