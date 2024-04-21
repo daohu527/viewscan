@@ -1,0 +1,27 @@
+{
+  "name": "viewscan",
+  "version": "1.0.0",
+  "description": "Sensor placement in autonomous driving is critical, but the problem is that there is currently no universal way to evaluate it. car_fov provides a calculation method for vehicle field of view. It can help you visually display the vehicle's FOV and evaluate it.",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daohu527/viewscan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daohu527/viewscan/issues"
+  },
+  "homepage": "https://github.com/daohu527/viewscan#readme"
+}
